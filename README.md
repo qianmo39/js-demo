@@ -6,3 +6,4 @@ mini web projects using HTML, CSS & JS
 | --- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | 01  | [Random Password Generator](https://github.com/qianmo39/js-demo/tree/main/random-password-generator) | [Live Demo](https://qianmo39.github.io/js-demo/random-password-generator/index.html) |
 | 02  | [Clock Dark](https://github.com/qianmo39/js-demo/tree/main/clock-dark)                               | [Live Demo](https://qianmo39.github.io/js-demo/clock-dark/index.html)                |
+| 03  | [360deg Product Display](https://github.com/qianmo39/js-demo/tree/main/360deg-product-display)       | [Live Demo](https://qianmo39.github.io/js-demo/360deg-product-display/index.html)    |
